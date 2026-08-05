@@ -128,4 +128,4 @@ The `research_profiles` table is linked to the `users` table using the `user_id`
 
 **Milestone:** Milestone 1
 
-**Project:** Funding & Innovation Platform
+**Project:** InnovaFund-AI
